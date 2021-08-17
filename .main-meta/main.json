@@ -1,0 +1,55 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.1.0",
+        "name": "com.microchip.mcu8.mplabx.project.avr128da48-qt7-touch-xpress",
+        "version": " ",
+        "displayName": "",
+        "projectName": "avr128da48-qt7-touch-xpress",
+        "shortDescription": "This example demonstrates touch application with data visualization on AVR128DA48 Curiosity Nano and Curiosity Nano Touch Adapter Kit with the QT7 extension board Deliberately designed using MPLAB Xpress",
+        "ide": {
+            "name": "MPLAB X",
+            "semverRange": ">=5.45.0"
+        },
+        "compiler": [
+            {
+                "name": "XC8",
+                "semverRange": "^2.31.0"
+            }
+        ],
+        "dfp": {
+            "name": "",
+            "semverRange": ""
+        },
+        "configurator": {
+            "name": "",
+            "semverRange": ""
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": "AVR128DA48",
+                "versionRange": "*"
+            }
+        },
+        "author": "Alexander Flor",
+        "subcategories": [],
+        "peripherals": [],
+        "keywords": [],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./README.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
+}
