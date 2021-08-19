@@ -4,8 +4,8 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-qt7-touch-xpress",
-        "version": " ",
-        "displayName": "",
+        "version": "1.0.0",
+        "displayName": "AVR128DA48 with QT7 Example Developed using MPLAB Xpress",
         "projectName": "avr128da48-qt7-touch-xpress",
         "shortDescription": "This example demonstrates touch application with data visualization on AVR128DA48 Curiosity Nano and Curiosity Nano Touch Adapter Kit with the QT7 extension board Deliberately designed using MPLAB Xpress",
         "ide": {
@@ -19,12 +19,12 @@
             }
         ],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "AVR-Dx_DFP",
+            "semverRange": "^1.8.112"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": ">=4.1.2"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -37,9 +37,32 @@
             }
         },
         "author": "Alexander Flor",
-        "subcategories": [],
-        "peripherals": [],
-        "keywords": [],
+        "subcategories": [
+            "MCC", "Touch", "Curiosity Nano",
+            [
+                "Peripherals","RTC"
+            ],
+            [
+                "Peripherals","USART"
+            ],
+            [
+                "Peripherals","PTC"
+            ]
+        ],
+        "peripherals": ["RTC", "USART", "PTC"],
+        "keywords": [
+            "MCC",
+            "QT7",
+            "Xpress",
+            "PTC",
+            "Capacitive Touch Sensing",
+            "QTouch",
+            "mTouch",
+            "Touch Sensing",
+            "Human Interface",
+            "Sensors",
+            "Melody"
+        ],
         "additionalData": {
             "longDescription": {
                 "metaDataVersion": "1.0.0",
