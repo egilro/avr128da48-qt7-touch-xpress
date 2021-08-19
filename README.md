@@ -43,7 +43,7 @@ This example demonstrates touch application with data visualization on AVR128DA4
 
 3. Go to "Touch" and then "Create" tab. Create **2 buttons** and **1 slider with 3 segments**.
 
-![MCC - Create](images/Create.png)
+![MCC - Create](images/create.png)
 
 4. Go to "Configure -> Sensor Pins" tab. Assign the pins to the buttons and sensors as seen in the image below.
 
