@@ -1,4 +1,4 @@
-[![MCHP](images/microchip.png)](https://www.microchip.com)
+[![MCHP](https://www.microchip.com/content/dam/mchp/mrt-dam/logos/microchip/Microchip-Logo-Horizontal-Black-Red.png)](https://www.microchip.com)
 
 # AVR128DA48 with QT7 Example Developed using MPLAB Xpress
 
